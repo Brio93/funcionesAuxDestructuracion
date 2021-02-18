@@ -1,0 +1,2 @@
+# funcionesAuxDestructuracion
+Created with CodeSandbox
